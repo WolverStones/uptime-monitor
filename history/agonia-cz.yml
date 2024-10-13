@@ -1,7 +1,7 @@
 url: https://agonia.cz
-status: up
-code: 200
-responseTime: 203
-lastUpdated: 2024-10-12T23:02:25.200Z
+status: down
+code: 429
+responseTime: 184
+lastUpdated: 2024-10-13T19:10:39.385Z
 startTime: 2024-09-09T23:15:34.850Z
 generator: Upptime <https://github.com/upptime/upptime>
